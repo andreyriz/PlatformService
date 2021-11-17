@@ -62,3 +62,4 @@ C:\Users\Andrey\source\repos\PlatformService\PlatformService\obj\Debug\netcoreap
 C:\Users\Andrey\source\repos\PlatformService\PlatformService\obj\Debug\netcoreapp3.1\PlatformService.dll
 C:\Users\Andrey\source\repos\PlatformService\PlatformService\obj\Debug\netcoreapp3.1\PlatformService.pdb
 C:\Users\Andrey\source\repos\PlatformService\PlatformService\obj\Debug\netcoreapp3.1\PlatformService.genruntimeconfig.cache
+C:\Users\Andrey\source\repos\PlatformService\PlatformService\obj\Debug\netcoreapp3.1\PlatformService.csproj.AssemblyReference.cache
